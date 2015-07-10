@@ -14,4 +14,4 @@ $_['text_account']      = '我的账户';
 $_['text_order']        = '订单记录';
 $_['text_wishlist']     = '收藏清单';
 $_['text_newsletter']   = '通讯';
-$_['text_powered']      = '由 <a href="http://www.opencart.com"> OpenCart</a> < br / > %s © %s 提供';
+$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
