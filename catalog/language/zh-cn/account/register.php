@@ -14,10 +14,10 @@ $_['text_agree']           = '我已阅读并同意 <a href="%s"class="agree"> <
 
 // Entry
 $_['entry_customer_group'] = '客户群组';
-$_['entry_firstname']      = '名字';
+$_['entry_firstname']      = '您的姓名';
 $_['entry_lastname']       = '姓氏';
-$_['entry_email']          = '电子邮件';
-$_['entry_telephone']      = '电话';
+$_['entry_email']          = '您的邮箱';
+$_['entry_telephone']      = '联系电话';
 $_['entry_fax']            = '传真';
 $_['entry_company']        = '公司';
 $_['entry_address_1']      = '地址 1';
