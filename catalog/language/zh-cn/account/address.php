@@ -12,10 +12,10 @@ $_['text_delete']          = '您的地址已成功被删除';
 $_['text_empty']           = '您的帐户没有地址。';
 
 // Entry
-$_['entry_firstname']      = '名字';
+$_['entry_firstname']      = '姓名';
 $_['entry_lastname']       = '姓氏';
 $_['entry_company']        = '公司';
-$_['entry_address_1']      = '地址 1';
+$_['entry_address_1']      = '地址 ';
 $_['entry_address_2']      = '地址 2';
 $_['entry_postcode']       = '邮政编码';
 $_['entry_city']           = '城市';
