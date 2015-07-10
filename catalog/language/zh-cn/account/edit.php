@@ -9,9 +9,9 @@ $_['text_your_details']  = '您的个人资料';
 $_['text_success']       = '成功: 已成功更新您的帐户。';
 
 // Entry
-$_['entry_firstname']    = '名字';
+$_['entry_firstname']    = '姓名';
 $_['entry_lastname']     = '姓氏';
-$_['entry_email']        = '电子邮件';
+$_['entry_email']        = '电子邮箱';
 $_['entry_telephone']    = '电话';
 $_['entry_fax']          = '传真';
 
